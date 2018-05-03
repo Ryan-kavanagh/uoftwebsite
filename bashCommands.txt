@@ -10,3 +10,8 @@ touch fileName
 move file:
 mv filename newPath
 
+remove file:
+rm filename
+
+remove folder:
+rm -r foldername
