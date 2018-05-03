@@ -1,0 +1,8 @@
+1) install bash for ubuntu on windows
+2) install text editor (sublime/atom)
+3) install python3 (in bash)
+4) install virtualenv (in bash)
+5) create a virtual environment using virtualenv
+6) source activate envName
+7) inside the virtual environment, pip install Django
+8) start coding wewlad
